@@ -51,6 +51,7 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ---
 **Author**: Niviti Sharma
+
 **GitHub**: Niviti2604(https://github.com/niviti2604)  
 **Email**: niviti_s@me.iitr.ac.in
 
